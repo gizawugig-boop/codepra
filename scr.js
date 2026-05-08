@@ -1,2 +1,2 @@
 console.log("gizawu");
-console.log("config");
+console.log("config 22");
