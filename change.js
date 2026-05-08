@@ -1,1 +1,1 @@
-console.log("Jesus will come soon!");
+console.log("Jesus will come back!");
